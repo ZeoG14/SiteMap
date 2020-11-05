@@ -76,9 +76,29 @@ Link to OU's homepage
 * Link to photos total stats
 * Link to search stats by criteria
 ## Photo
+* Links to Overview, Browse, Map, Log in, Register
+### Overview
+* Links to pdf articles and flyers
+* Links to videos demonstrating possibilities with app
+* Links to crowdsourcing projects
+* Links to IOS and Android apps
+### Browse
+* Criteria specifier
+* All photos uploaded to source
+### Map
+* Google map widget paired with photo locations
+* Criteria specifier
+* Links to specified pictures
+### Log in
+* Link to account log in page
+### Register
+* Link to account register page
 ## Modis
 ## Geohealth
 ## GIS Day
 ## Workshops
 ## Water
 ## Accounts
+
+# UI Opinions
+1. The menu branches could use some work. Not all branches follow the same pattern, for example one requires you to be in one of its pages before it drops down while the others drop down regardless of what page you are on. Some of the branch pages are also under construction or not working, these should be removed from user assesibility.
