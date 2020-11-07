@@ -168,8 +168,18 @@ Link to OU's homepage
 
 
 ## GIS Day
-* link to Geospatial Information Science Day
+* links to Geospatial Information Science Day
+* links to GIS Day 2012 Summary, Photo Gallery
+* links to GIS Day 2013 Summary, Announcements, Commitee, Agenda, Logistics, Photo Contest, Post Registration, Exhibitor Registration, Vistor Registration, Sponsors, Photo gallery, Image gallery
+* links to GIS Day 2014 Announcements, Commitee, Agenda, Logistics, Post Registration, Exhibitor Registration, Vistor Registration, Volunteer Registration, Sponsors, Photo gallery
+* links to GIS Day 2015 Announcements, Commitee, Agenda, Logistics, Post Registration, Exhibitor Registration, Vistor Registration, Volunteer Registration, Sponsors, Photo gallery
+* links to GIS Day 2016 Announcements, Commitee, Agenda, Logistics, Post Registration, Exhibitor Registration, Vistor Registration, Volunteer Registration, Sponsors, Photo gallery, Survey
 
+### Summary
+* link to Home Page of Kelvin K. Droegemeier
+* link to University of Oklahoma Graduate College 
+* links to schoolreportcard
+* links to 
 ## Workshops
 ## Water
 ## Accounts
