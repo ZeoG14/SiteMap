@@ -170,17 +170,72 @@ Link to OU's homepage
 ## GIS Day
 * links to Geospatial Information Science Day
 * links to GIS Day 2012 Summary, Photo Gallery
-* links to GIS Day 2013 Summary, Announcements, Commitee, Agenda, Logistics, Photo Contest, Post Registration, Exhibitor Registration, Vistor Registration, Sponsors, Photo gallery, Image gallery
-* links to GIS Day 2014 Announcements, Commitee, Agenda, Logistics, Post Registration, Exhibitor Registration, Vistor Registration, Volunteer Registration, Sponsors, Photo gallery
-* links to GIS Day 2015 Announcements, Commitee, Agenda, Logistics, Post Registration, Exhibitor Registration, Vistor Registration, Volunteer Registration, Sponsors, Photo gallery
-* links to GIS Day 2016 Announcements, Commitee, Agenda, Logistics, Post Registration, Exhibitor Registration, Vistor Registration, Volunteer Registration, Sponsors, Photo gallery, Survey
+* links to GIS Day 2013 Summary, Announcements, Committee, Agenda, Logistics, Photo Contest, Post Registration, Exhibitor Registration, Visitor Registration, Sponsors, Photo gallery, Image gallery
+* links to GIS Day 2014 Announcements, Committee, Agenda, Logistics, Post Registration, Exhibitor Registration, Visitor Registration, Volunteer Registration, Sponsors, Photo gallery
+* links to GIS Day 2015 Announcements, Committee, Agenda, Logistics, Post Registration, Exhibitor Registration, Visitor Registration, Volunteer Registration, Sponsors, Photo gallery
+* links to GIS Day 2016 Announcements, Committee, Agenda, Logistics, Post Registration, Exhibitor Registration, Visitor Registration, Volunteer Registration, Sponsors, Photo gallery, Survey
 
 ### Summary
 * link to Home Page of Kelvin K. Droegemeier
 * link to University of Oklahoma Graduate College 
 * links to schoolreportcard
-* links to 
+* links to email
+
+### Photo Gallery
+* links to photos
+
+### Announcements 
+* links to email
+* link to OU Memorial Union
+### Committee
+* links to email
+
+### Agenda
+* No additional links
+
+### Logistics
+* link to OU Memorial Union
+* link to google map
+### Post Registration
+* links to email
+
+### Exhibitor Registration
+* No additional links
+### Visitor Registration
+* No additional links
+### Volunteer Registration
+* No additional links
+### Sponsors
+links to all the sponsors
+
 ## Workshops
+
+### Overview
+* No additional links
+
+### Current Workshops
+* No additional links
+
+### Past Workshops
+* link to The 2nd International Workshop on Community-based Data Synthesis, Analysis and Modeling of Highly Pathogenic Avian Influenza H5N1 in Asia
+* link to The 3rd International Workshop on Community-based Data Synthesis, Analysis and Modeling of Highly Pathogenic Avian Influenza H5N1 in Asia
+* link to The 4th International Workshop on Community-based Data Synthesis, Analysis and Modeling of Highly Pathogenic Avian Influenza H5N1 in Asia 
+* link to The 5th International Workshop on Highly Pathogenic Influenza Risk Assessment and Risk Modling: Transitioning from Global to Local Assessments
+* link to 2014 Oklahoma Workshop on Remote Sensing Technology and Application
+* link to 2015 Oklahoma Workshop on Remote Sensing Applications
+* link to Year 3 Grazing CAP Annual Meeting
+* link to Year 4 Grazing CAP Annual Meeting
+* link to Year 4 Grazing CAP Annual Meeting
+
+### Description
+* links to email
+
+### Presentations
+* No additional links
+
+### Photo Gallery
+* No additional links
+
 ## Water
 ## Accounts
 
