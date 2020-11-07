@@ -168,6 +168,8 @@ Link to OU's homepage
 
 
 ## GIS Day
+* link to Geospatial Information Science Day
+
 ## Workshops
 ## Water
 ## Accounts
