@@ -1,7 +1,7 @@
 # SiteMap
 Links to Home, About us, News, Photo, Modis, Geohealth,GIS Day, Workshops, Water, Accounts
 Link to OU's homepage
-## Home
+# Home
 * Link to OU's page for Microbiology at the College of Arts and Sciences
 * Link to OU's Center for Spatial Analysis at the College of Atmospheric and Geographic Sciences
 * Link to OU EOMF Facebook account
@@ -10,7 +10,7 @@ Link to OU's homepage
 * Link to instructional video for app
 * Links attached to two photos that take you to the photos tab
 * Links to all the funding agencies that support the EOMF
-## About us 
+# About us 
 * Links to News, People, Publications, Research, Education, Facilities, Group Photos, Calendar, Website Usage Statistics
 * Publicatons drops down menu to links to Referred Journal Publications, Books and Book Chapters, Presentations
 * Education drops down menu with links to Overview, Courses, Student Awards, and GIS Day
@@ -75,7 +75,7 @@ Link to OU's homepage
 * Link to photos by month stats
 * Link to photos total stats
 * Link to search stats by criteria
-## Photo
+# Photo
 * Links to Overview, Browse, Map, Log in, Register
 ### Overview
 * Links to pdf articles and flyers
@@ -93,7 +93,7 @@ Link to OU's homepage
 * Link to account log in page
 ### Register
 * Link to account register page
-## Modis
+# Modis
 * Overview of the MODIS data
 * Links to USGS, NASA data, EOMF data, Composite image, Vegetation Index Map, Single Site Time-series, Multiple-Site Time Series, and Single Site History
 
@@ -151,7 +151,7 @@ Link to OU's homepage
 * A page with a box to enter your email
 
 
-## Geohealth
+# Geohealth
 * A link Google Earth browser, Wild bird tracking data, and Avian Influenza tracking data
 * This page just has some text on it
 
@@ -168,10 +168,116 @@ Link to OU's homepage
 
 
 ## GIS Day
-## Workshops
-## Water
-## Accounts
+* links to Geospatial Information Science Day
+* links to GIS Day 2012 Summary, Photo Gallery
+* links to GIS Day 2013 Summary, Announcements, Committee, Agenda, Logistics, Photo Contest, Post Registration, Exhibitor Registration, Visitor Registration, Sponsors, Photo gallery, Image gallery
+* links to GIS Day 2014 Announcements, Committee, Agenda, Logistics, Post Registration, Exhibitor Registration, Visitor Registration, Volunteer Registration, Sponsors, Photo gallery
+* links to GIS Day 2015 Announcements, Committee, Agenda, Logistics, Post Registration, Exhibitor Registration, Visitor Registration, Volunteer Registration, Sponsors, Photo gallery
+* links to GIS Day 2016 Announcements, Committee, Agenda, Logistics, Post Registration, Exhibitor Registration, Visitor Registration, Volunteer Registration, Sponsors, Photo gallery, Survey
 
-# UI Opinions
+### Summary
+* link to Home Page of Kelvin K. Droegemeier
+* link to University of Oklahoma Graduate College 
+* links to schoolreportcard
+* links to email
+
+### Photo Gallery
+* links to photos
+
+### Announcements 
+* links to email
+* link to OU Memorial Union
+### Committee
+* links to email
+
+### Agenda
+* No additional links
+
+### Logistics
+* link to OU Memorial Union
+* link to google map
+### Post Registration
+* links to email
+
+### Exhibitor Registration
+* No additional links
+### Visitor Registration
+* No additional links
+### Volunteer Registration
+* No additional links
+### Sponsors
+links to all the sponsors
+
+## Workshops
+
+### Overview
+* No additional links
+
+### Current Workshops
+* No additional links
+
+### Past Workshops
+* link to The 2nd International Workshop on Community-based Data Synthesis, Analysis and Modeling of Highly Pathogenic Avian Influenza H5N1 in Asia
+* link to The 3rd International Workshop on Community-based Data Synthesis, Analysis and Modeling of Highly Pathogenic Avian Influenza H5N1 in Asia
+* link to The 4th International Workshop on Community-based Data Synthesis, Analysis and Modeling of Highly Pathogenic Avian Influenza H5N1 in Asia 
+* link to The 5th International Workshop on Highly Pathogenic Influenza Risk Assessment and Risk Modling: Transitioning from Global to Local Assessments
+* link to 2014 Oklahoma Workshop on Remote Sensing Technology and Application
+* link to 2015 Oklahoma Workshop on Remote Sensing Applications
+* link to Year 3 Grazing CAP Annual Meeting
+* link to Year 4 Grazing CAP Annual Meeting
+* link to Year 4 Grazing CAP Annual Meeting
+
+### Description
+* links to email
+
+### Presentations
+* No additional links
+
+### Photo Gallery
+* No additional links
+# Water
+* Drop Down Menu
+* Global Water Body Mapping Tool
+* Links to Overview, CONUS-Water, Global-Water, 33-year Water body frequency map, Annual Water Body Frequency Map, 33-year Good Observation Map. Single Site Time-Series, Multiple Site Time-Series, Single Site History
+### Drop Down Menu
+* This drop menu provides users with instruction on how to use the Global Water Body Mapping Tool
+### Global Water Mapping Tool
+* Contains user input boxes
+* Integrates a map as a supplement to the tool
+### Overview
+* Links goes to a page that gives an overview of the data on this page 
+### CONUS-Water Dataset
+* Links to to zenodo to give information oin how the maps are generated
+* Links to Lab Server with multiple map datasets
+### Global-Water
+* Broken link, webpage does not load
+### 33-year Water Body Frequency Map
+* This page is supposed to incorporate a map and datasets but the map and dataset do not load correctly
+### Annual Water Body Frequency Map
+* This link redirects us to the MODIS page which we crawled above
+* This page contains two maps which the user can interact with
+### 33-year Good Observation Map
+* This link redirects us to the MODIS page which we crawled above
+* This page contains two maps which the user can interact with
+### Single Site Time-Series
+* Redircts us to the login page
+### Multiple Site Time-Series
+* Redircts us to the login page
+### Single Site History
+* Redircts us to the login page
+# Accounts
+* Links to Log in, Register, and Reset Password
+* Has two user input field.
+### Log in
+* Redirects us to the same page seen on Accounts
+### Register
+* Multiple user input boxes to fill in with personal information
+### Reset Password
+* User input box to enter your email
+
+
+# UI 
 1. The menu branches could use some work. Not all branches follow the same pattern, for example one requires you to be in one of its pages before it drops down while the others drop down regardless of what page you are on. Some of the branch pages are also under construction or not working, these should be removed from user accessibility.
-2. The EOMF website implements an adaptable view UI design. While this does not change the language of data and reports, it does change the language for website navigation. Also, I am unsure of what they're called, but the little facebook bubbles that take you to the EOMF Facebook page are funny.   
+2. The EOMF website implements an adaptable view UI design. While this does not change the language of data and reports, it does change the language for website navigation. Also, I am unsure of what they're called, but the little facebook bubbles that take you to the EOMF Facebook page are funny.
+3. The Water Map tool implements the Fill in the Blank UI Design Pattern since it asks for the user for an address. The input field does not have a drop down to assist users or offer a list of matching locations. The accounts page also implements the simple Fill in The Blank UI Design Pattern. These input fields offer no drop downs or predictive suggestions. 
+4. The GSI Day uses Accordion Menu Design Pattern. These pattern is useful when there are only two levels to show in the main navigation. In GSI day page there are only two levels to show in the main navigation and about ten subsection. therefore, According Menu Design Pattern is perfectfor GSI Day.
